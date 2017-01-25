@@ -15,3 +15,11 @@
 [Arbitrage and IRP](http://msite.clarion.edu/Mediasite/Play/b91ead83cf99437baad1bbcd7d66061f1d)
 
 [PPP and IFE](http://msite.clarion.edu/Mediasite/Play/97e8271f5c014587a654c541bbfedb851d)
+
+## Recorded Myself
+
+[Currency Forwards/Futures 1](https://www.youtube.com/watch?v=fei6UPP2flg)
+
+[Currency Forwards/Futures 2](https://www.youtube.com/watch?v=GKnaPlbbjQ8)
+
+[Non-Deliverable Forwards](https://www.youtube.com/watch?v=de27-ukK_pE) 
